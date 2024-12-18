@@ -1,0 +1,6 @@
+{
+    "schema": "./sanity/extract.json",
+    "documents": "./src/**/*.{ts,tsx,js,jsx}",
+    "generates":"./sanity/types.ts"
+  }
+  
